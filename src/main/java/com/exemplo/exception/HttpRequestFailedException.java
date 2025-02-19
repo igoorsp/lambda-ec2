@@ -1,4 +1,4 @@
-package com.exemplo;
+package com.exemplo.exception;
 
 public class HttpRequestFailedException extends RuntimeException {
     private final int statusCode;
